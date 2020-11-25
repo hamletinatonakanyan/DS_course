@@ -16,12 +16,12 @@ Project contains the following parts
 
 
 ________________________________
-Macine Learning
+Machine Learning
 ________________________________
 Homework:
-1. Classifications, model evaluating, metrics.
+1. Classifications. model evaluating, metrics.
 
-2. Linear regression and model optimization: Gradient Descent
+2. Linear Regression and model optimization: Gradient Descent
 
 3. Support Vector Machines
 
@@ -29,6 +29,7 @@ Homework:
 
 
 Final Project:
+
 Student performance analysis - evaluation of performance of all students using Machine Learning techniques.
 
   
